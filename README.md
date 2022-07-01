@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Alexandr
 #### I am Java developer
-![I am Java developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 I have been study Java program language yet 2 years, so hardly...
 
