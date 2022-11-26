@@ -6,7 +6,7 @@
 
 I have been study Java program language yet 2 years, so hardly...
 
-Skills: JAVA, HTML, PostgreSQL
+Skills: JAVA, Spring, Hibernate, HTML, PostgreSQL
 
 - 🔭 I’m currently working on this page. 
 
