@@ -49,7 +49,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/ВашеИмя">
-    <img src="https://komarev.com/ghpvc/?username=ВашеИмя&color=brightgreen" alt="Просмотры профиля" />
+  <a href="https://github.com/chetverg999">
+    <img src="https://komarev.com/ghpvc/?username=chetverg999&color=brightgreen" alt="Просмотры профиля" />
   </a>
 </div>
