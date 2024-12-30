@@ -27,12 +27,6 @@
 
 ---
 
-### 📊 Статистика GitHub
-
-![chetverg999's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetverg999&show_icons=true&theme=tokyonight)
-
----
-
 ### 📫 Связаться со мной
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.iva2303@yandex.ru)
