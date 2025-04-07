@@ -26,6 +26,7 @@
 #### 🚀 Сервис сокращения URL (https://github.com/chetverg999/shortener)
 #### 🐍 Многопользовательская игра «Змейка» (https://github.com/chetverg999/snakeUDP)
 #### 🔑 Проект SSO (https://github.com/Pashgunt/SSO)
+#### 📝 REST API лист задач (https://github.com/chetverg999/TaskListGo)
 ---
 
 ### 📫 Связаться со мной
